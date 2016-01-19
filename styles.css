@@ -40,7 +40,7 @@ a:link{
 }
 
 a:hover{
-    color: deepskyblue;
+    color: lightskyblue;
     transition: color .3s ease-in;
 }
 
