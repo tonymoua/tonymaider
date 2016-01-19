@@ -32,11 +32,11 @@ a{
     padding-right: .75em;
 }
 a:vistied{
-    color: deepskyblue;
+    color: lightskyblue;
 }
 
 a:link{
-    color: deepskyblue;
+    color: black;
 }
 
 a:hover{
