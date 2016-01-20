@@ -5,16 +5,18 @@ body{
 nav{
 
     border-bottom: thin solid #DCDCDC;
+    padding-bottom: 5px;
+
 }
 
 li{
     float: left;
     padding: 1;
-    padding-right: 1.5em;
+    padding-right: 1.0em;
     text-transform: uppercase;
-    letter-spacing: .10em;
-    font-weight: 400;
-    font-size: 1.25em;
+    letter-spacing: .025em;
+    font-weight: 100;
+    font-size: 1em;
     color: skyblue;
     font-family: 'Raleway', sans-serif;
     
@@ -45,7 +47,7 @@ a:link{
 
 a:hover{
     color: lightskyblue;
-    transition: color .3s ease-in;
+    transition: color .2s ease-in;
 }
 
 header{
