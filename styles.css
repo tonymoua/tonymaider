@@ -4,7 +4,7 @@ body{
 }
 nav{
 
-    border-bottom: thin solid #DCDCDC;
+    border-bottom: .15em solid #DCDCDC;
     padding-bottom: 5px;
 
 }
@@ -16,7 +16,7 @@ li{
     text-transform: uppercase;
     letter-spacing: .025em;
     font-weight: 100;
-    font-size: 1em;
+    font-size: 1.125em;
     color: skyblue;
     font-family: 'Raleway', sans-serif;
     
