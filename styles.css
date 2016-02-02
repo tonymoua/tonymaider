@@ -1,3 +1,4 @@
+
 body{
     width: 99%;
     height: 99%;
@@ -116,7 +117,7 @@ img{
 
 /*quote*/
 
-quote{
+quote, p{
     width: 50%;
     letter-spacing: .125em;
     line-height: 1.5em;
@@ -125,4 +126,18 @@ quote{
     font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 14px;
+}
+
+/*blog*/
+
+#wrapper{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post{
+
+    margin-bottom: 10px;
+    border-bottom: 1px solid #DCDCDC;
 }
